@@ -1,5 +1,4 @@
-# Hey there, frens and gentlefolk! 
-# I'm Valentina!
+# Hey there, frens and gentlefolk!<br/>I'm Valentina!
 
 <!--
 **vnakayama/vnakayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
