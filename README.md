@@ -1,4 +1,4 @@
-# Hey there, frens and gentlefolk!<br/>I'm Valentina!
+# Hey there, frens and gentlefolk!<br/>
 
 <!--
 **vnakayama/vnakayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ECI UFRJ. Any pronoun. 
+he/they
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
